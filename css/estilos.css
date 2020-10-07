@@ -1,15 +1,5 @@
 body
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    background: #1e1f24;
-=======
->>>>>>> footer
-=======
-=======
-    background: #1e1f24;
->>>>>>> header
->>>>>>> footer
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -54,26 +44,12 @@ body
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> footer
-=======
-
-=======
->>>>>>> header
->>>>>>> footer
 #post
 {
     background: white;
     padding: 1em;
-<<<<<<< HEAD
-<<<<<<< HEAD
-}
-=======
-=======
->>>>>>> footer
+
 }
 
 #footer
@@ -83,10 +59,3 @@ body
     text-align: center;
     padding: 0.5em;
 }
-<<<<<<< HEAD
->>>>>>> footer
-=======
-=======
-}
->>>>>>> header
->>>>>>> footer
