@@ -1,19 +1,6 @@
 body
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     background: #1e1f24;
-=======
->>>>>>> footer
-=======
-=======
-    background: #1e1f24;
->>>>>>> header
->>>>>>> footer
-=======
-    background: #1e1f24;
->>>>>>> header
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -58,49 +45,9 @@ body
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> footer
-=======
-
-=======
->>>>>>> header
->>>>>>> footer
-=======
-
->>>>>>> header
 #post
 {
     background: white;
     padding: 1em;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
-=======
-=======
->>>>>>> footer
-}
-
-#footer
-{
-    background: #777;
-    color: white;
-    text-align: center;
-    padding: 0.5em;
-}
-<<<<<<< HEAD
->>>>>>> footer
-=======
-=======
-}
->>>>>>> header
->>>>>>> footer
-=======
-}
-
-
->>>>>>> header
